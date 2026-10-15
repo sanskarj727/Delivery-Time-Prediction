@@ -1,0 +1,10 @@
+# The dataset is supplied separately and is not stored in the repository
+data/*.csv
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.DS_Store
